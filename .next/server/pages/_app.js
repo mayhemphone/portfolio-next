@@ -34,13 +34,13 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "react/jsx-dev-runtime":
-/*!****************************************!*\
-  !*** external "react/jsx-dev-runtime" ***!
-  \****************************************/
+/*!***********************************************************!*\
+  !*** external "next/dist/compiled/react/jsx-dev-runtime" ***!
+  \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("react/jsx-dev-runtime");
+module.exports = require("next/dist/compiled/react/jsx-dev-runtime");
 
 /***/ })
 
