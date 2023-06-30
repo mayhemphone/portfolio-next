@@ -63,7 +63,9 @@ const page = ({}: Props) => {
       />
       <a href="https://clearbit.com">Logos provided by Clearbit</a>
       <br />
-      <label htmlFor="url-input">url</label>
+      <label htmlFor="url-input">
+        url (i need to proxy this, to avoid CORS problems)
+      </label>
       <input id="url-input" name="url-input" ref={urlInput} />
       <button
         onClick={() =>
